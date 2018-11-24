@@ -8,7 +8,7 @@
 
 	<body>
 
-		@yield('Content')
+		@yield('content')
 
 		<ul>
 
