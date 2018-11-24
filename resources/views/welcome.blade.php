@@ -65,6 +65,7 @@
         </style>
     </head>
     <body>
+        <p><a href="/contact">Contact</a> us to learn more</p>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
