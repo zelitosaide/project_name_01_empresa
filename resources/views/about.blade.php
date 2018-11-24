@@ -1,10 +1,6 @@
 @extends('layout')
 
-@section('title')
-	
-	About us
-
-@endsection
+@section('title', 'About us')
 
 @section('content')
 
