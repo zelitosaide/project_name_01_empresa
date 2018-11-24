@@ -1,19 +1,17 @@
-<!DOCTYPE html>
 
-<html>
+
+@extends('layout')
+
+
+@section('title')
 	
-	<head>
-		
-	</head>
+	Contact us
 
-	<body>
-		<h1>Contact Form</h1>
+@endsection
 
-		<ul>
-			<li><a href="/about">About us</a></li>
-			<li><a href="/contact">Contact us to learn more</a></li>
-		</ul>
-		
-	</body>
 
-</html>
+@section('content')
+
+	<h1>Contact Form</h1>
+
+@endsection('content')
